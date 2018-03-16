@@ -1,0 +1,3 @@
+
+        [console_scripts]
+        fitness=cli.cli:cli
